@@ -1,0 +1,15 @@
+pip install pandas
+pip install pandas_datareader
+pip install numpy
+pip install yfinance
+pip install datetime
+pip install math
+pip install statsmodels
+pip install matplolib
+pip install plotly
+pip install graphs
+pip install seaborn
+pip install sklearn
+pip install fbprophet
+
+
